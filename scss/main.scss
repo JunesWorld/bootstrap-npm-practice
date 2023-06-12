@@ -15,4 +15,6 @@ $theme-colors: (
 );
 
 /* node_modules로 바로 접근 가능한 것은 JS 파일만 가능하다. */
-@import "../node_modules/bootstrap/scss/bootstrap";
+/* Bootstrap 기본 스타일 초기화 */
+/* @import "../node_modules/bootstrap/scss/dropdown"; // 특정 부트스트랩만 가져와서 사용 가능 */
+@import "../node_modules/bootstrap/scss/bootstrap.scss"; 
