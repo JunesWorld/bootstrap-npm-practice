@@ -24,3 +24,9 @@ Lean Sass imports
 - 최대한 간결하게 사용하기 위해 필요한 것만 가져와 사용
 - JavaScript도 사용 가능
 - 초기화 해줘야 함!
+
+## 초기화
+
+만약, HTML에 추가했지만 동작하지 않으면 초기화가 필요하다!
+- BootStrap Homepage에서 해당 Component로 이동
+- Via JavaScript(오른쪽 Tab)
